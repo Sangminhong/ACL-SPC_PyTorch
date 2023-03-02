@@ -10,7 +10,7 @@ This repository contains the official code to reproduce the results from the pap
 ## Installation
 Clone this repository into any place you want.
 ```
-git clone https://github.com/Reyhanehne/CVF-SID_PyTorch.git
+git clone https://github.com/Sangminhong/ACL-SPC_PyTorch.git
 cd ACL-SPC_PyTorch
 ```
 ### Dependencies
