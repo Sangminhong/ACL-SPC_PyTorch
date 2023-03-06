@@ -4,7 +4,7 @@ This repository contains the official code to reproduce the results from the pap
 
 **ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion**
 
-\[[arXiv]()\] \[[presentation]()\] 
+\[[arXiv](https://arxiv.org/abs/2303.01979)\] \[[presentation]()\] 
 
 
 ## Installation
@@ -19,7 +19,7 @@ cd ACL-SPC_PyTorch
 * numpy
 
 ## Quick Start
-
+Comming soon.
 
 ## Expriments
 
