@@ -41,5 +41,10 @@ python train.py
 ### Citation
 If you find our code or paper useful, please consider citing:
 ```
-
+@inproceedings{Hong2023ACLSPC,
+  title={ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion},
+  author={Sangmin Hong and Mohsen Yavartanoo and Reyhaneh Neshatavar and Kyoung Mu Lee},
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023}
+}
 ```
