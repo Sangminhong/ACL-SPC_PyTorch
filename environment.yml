@@ -393,7 +393,6 @@ dependencies:
   - zfp=0.5.5=h295c915_6
   - zict=2.0.0=pyhd3eb1b0_0
   - zipp=3.7.0=pyhd3eb1b0_0
-  - zlib=1.2.12=h7f8727e_1
   - zope=1.0=py38_1
   - zope.event=4.5.0=py38_0
   - zope.interface=5.4.0=py38h7f8727e_0
