@@ -23,6 +23,9 @@ cd ACL-SPC_PyTorch
 * open3d
 * torchsummary
 * pytorch3d
+```
+conda env create --file environment.yml
+```
 
 ## Quick Start
 Coming soon.
