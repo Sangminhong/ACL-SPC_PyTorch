@@ -1,0 +1,4 @@
+# ninja log v5
+1	19245	1675062624582204376	/home/mchiash2/ACL-SPC/GRNet/extensions/gridding/build/temp.linux-x86_64-3.8/gridding_cuda.o	711cc07d7cfedae
+0	55866	1675062661206073355	/home/mchiash2/ACL-SPC/GRNet/extensions/gridding/build/temp.linux-x86_64-3.8/gridding.o	f80859354c358fd8
+1	59583	1675062664922060013	/home/mchiash2/ACL-SPC/GRNet/extensions/gridding/build/temp.linux-x86_64-3.8/gridding_reverse.o	87523a610059b491
