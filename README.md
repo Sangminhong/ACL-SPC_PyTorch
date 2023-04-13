@@ -17,6 +17,8 @@ cd ACL-SPC_PyTorch
 * Python 3.8.5
 * PyTorch 1.7.1
 * numpy
+* h5py
+* numba
 
 ## Quick Start
 Coming soon.
