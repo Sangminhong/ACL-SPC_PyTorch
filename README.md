@@ -25,10 +25,13 @@ cd ACL-SPC_PyTorch
 * pytorch3d
 ```
 conda env create --file environment.yml
+conda activate ACL_SPC
 ```
 
 ## Quick Start
-Coming soon.
+```
+CUDA_VISIBLE_DEVICES=0 python main.py
+```
 
 ## Expriments
 
@@ -43,7 +46,7 @@ python test.py
 
 or you can train it by yourself as follows:
 ```
-python train.py 
+CUDA_VISIBLE_DEVICES=0 python main.py --experiment_id {experiment id} --dataset_name {dataset} --class_name {plane/car/chair/table}  
 ```
 
 
