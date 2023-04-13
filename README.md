@@ -23,6 +23,8 @@ cd ACL-SPC_PyTorch
 * open3d
 * torchsummary
 * pytorch3d
+
+Or you can just run the below commands to set the environment.
 ```
 conda env create --file environment.yml
 conda activate ACL_SPC
