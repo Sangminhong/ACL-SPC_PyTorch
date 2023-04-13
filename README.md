@@ -19,6 +19,10 @@ cd ACL-SPC_PyTorch
 * numpy
 * h5py
 * numba
+* scikit-learn
+* open3d
+* torchsummary
+* pytorch3d
 
 ## Quick Start
 Coming soon.
