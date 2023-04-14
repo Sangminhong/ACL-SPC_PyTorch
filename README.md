@@ -24,6 +24,7 @@ cd ACL-SPC_PyTorch
 * torchsummary
 * pytorch3d
 * KNN-CUDA
+* pykdtree
 
 Or you can just run the below commands to set the environment.
 ```
