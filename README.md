@@ -27,12 +27,6 @@ cd ACL-SPC_PyTorch
 * pykdtree
 * torch_scatter
 
-Or you can just run the below commands to set the environment.
-```
-conda env create --file environment.yml
-conda activate ACL_SPC
-```
-
 ## Quick Start
 ```
 CUDA_VISIBLE_DEVICES=0 python main.py
