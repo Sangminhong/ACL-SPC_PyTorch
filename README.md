@@ -6,8 +6,7 @@ This repository contains the official code to reproduce the results from the pap
 
 \[[arXiv](https://arxiv.org/abs/2303.01979)\] \[[presentation]()\] 
 
-![architecture](https://github.com/Sangminhong/ACL-SPC_PyTorch/assets/
-NewFramework-1.png)
+![architecture](https://github.com/Sangminhong/ACL-SPC_PyTorch/blob/master/assets/NewFramework-1.png)
 
 ## Installation
 Clone this repository into any place you want.
