@@ -36,15 +36,10 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 ## Expriments
 
 #### Pretrained model
-Download `config.json` and `model_best.pth` from this [link]() and save them in `` folder.
-#### NOTE: The pretrained model is updated at March. 1st 2023. 
+Download `model_best.pth` from this [link](https://drive.google.com/drive/folders/1tG3hBXtroHe4iXHb5W8XIfQ8YJEeS3Tp?usp=sharing) and save them.
+#### NOTE: The pretrained model is updated at April. 24th 2023. 
 
-You can now go to src folder and test our ACL-SPC by:
-```
-python test.py 
-```
-
-or you can train it by yourself as follows:
+You can now go to src folder and test our ACL-SPC:
 ```
 CUDA_VISIBLE_DEVICES=0 python main.py --experiment_id {experiment id} --dataset_name {dataset} --class_name {plane/car/chair/table}  
 ```
