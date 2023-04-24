@@ -2,7 +2,7 @@
 
 This repository contains the official code to reproduce the results from the paper:
 
-**ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion** (CVPR 2023)
+**ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion (CVPR 2023)** 
 
 \[[arXiv](https://arxiv.org/abs/2303.01979)\] \[[presentation]()\] 
 
