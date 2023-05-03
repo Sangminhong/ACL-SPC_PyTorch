@@ -20,7 +20,7 @@ You can try downloading the environment.yml and set the conda environment.
 conda env create -f environment.yml --name ACL_SPC
 conda activate ACL_SPC
 ```
-Or try to set the environmnet manually.
+Or try to set the environment manually.
 * Python 3.8.5
 * PyTorch 1.7.1
 * numpy
