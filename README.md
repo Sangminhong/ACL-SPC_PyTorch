@@ -37,11 +37,11 @@ Or try to set the environment manually.
 ## Quick Start
 If you want to test your partial point cloud on pretrained model you can simply run the below command.
 ```
-CUDA_VISIBLE_DEVICES=0 python demo.py --input {input_filename} --model_filename {model_directory} --fine_tune False
+CUDA_VISIBLE_DEVICES=0 python demo.py --input {input_filename} --model_filename {model_filename} --fine_tune False
 ```
 or if you need to finetune on your own dataset, you can simply run the below command.
 ```
-CUDA_VISIBLE_DEVICES=0 python demo.py --input {inputfilename} --model_filename {model filename} --fine_tune True --dataset_directory {dataset directory} 
+CUDA_VISIBLE_DEVICES=0 python demo.py --input {input_filename} --model_filename {model_filename} --fine_tune True --dataset_directory {dataset_directory} 
 ```
 ## Expriments
 
